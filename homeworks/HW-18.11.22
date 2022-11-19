@@ -1,0 +1,16 @@
+Command to create a new directory: 
+    mkdir directory_name
+    by adding a parents flag -p it is possible to create a directories with hierarchy
+      mkdir -p dir1/dir2/dir3
+
+Command to see a directory contents:
+    ls   
+    Flags can be added to this command:
+       -l    to see a detailed view of files and directories
+       -a    to see hidden files and directories 
+       -h    to see a human readable file sizes
+       
+Command to remove a directory:
+    rm -r dir1 
+    to remove without deleting permition request -f flag can be added
+  
